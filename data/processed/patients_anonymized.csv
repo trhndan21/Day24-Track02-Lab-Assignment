@@ -1,0 +1,12 @@
+patient_id,ho_ten,cccd,ngay_sinh,so_dien_thoai,email,dia_chi,benh,ket_qua_xet_nghiem,bac_si_phu_trach,ngay_kham
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,Vi Vũ,145352147001,18/07/1945,0949155904,johntran@example.com,"338 Chi Đặng, 895667",Tim mạch,8.63,Quý cô Thành Vũ,21/01/2026
+1a2a73ed-562b-4f79-8374-59eef50bea63,Cô Hải Nguyễn,971127211731,25/07/1961,0915822116,janedang@example.com,"849 Dũng Mai JohnHuyện, 183667",Huyết áp cao,7.49,Cô Hồng Vũ,01/03/2026
+5ec42e08-29a3-42e9-9d65-a441d58842de,Trung Hà Mai,727208593613,29/10/1979,0938741136,john41@example.net,"5 Bác Phúc Đặng, 169403",Khỏe mạnh,3.58,Bà Mai Dương,21/02/2026
+24933b83-7577-40a9-a491-f0b2ea1fca65,An Phạm,310004181173,29/09/1989,0989677184,wpham@example.org,"7 Hồng Hoàng, 166613",Khỏe mạnh,11.64,Kim Mai Mai,02/02/2026
+02f06b90-f143-462f-9c5c-0eed8da0365b,Quý cô Nhật Đặng,227421330911,05/03/1990,0925366121,pvu@example.net,"2 Bà Kim Nguyễn, 916449",Tim mạch,10.7,Duyên Đặng,06/03/2026
+e0f3eab0-5cec-4eb5-add9-68311ca35cfb,Trọng Hoàng Bùi,986911495991,10/12/1952,0998623206,janepham@example.org,"Quý cô Hương Bùi
+89 Quý cô Hương Bùi, 847581",Tim mạch,3.96,Thành Đặng,27/02/2026
+3f76be1d-1efa-4197-b394-988f847fd9b4,Chị Kim Mai,287577053748,22/04/1978,0998864416,john45@example.com,"105 Xuân Trần, 238739",Tiểu đường,6.53,Anh Châu Bùi,25/01/2026
+5ab33edf-6e59-4ed3-a8b3-17fa18d0752b,Nam Thế Lê,866990704842,07/07/1984,0956914799,john80@example.net,"338 Bà Thành Mai, 179046",Tim mạch,11.91,Ông Hưng Mai,20/04/2026
+c0e9ab30-ed26-42e9-97e0-11b7f8102383,Thành Vũ,161615699649,01/07/1970,0989660551,jane40@example.com,"74 Tú Vũ, 161324",Tim mạch,5.25,Yến Đặng,08/01/2026
+eb5cf467-80ba-4d64-ba0e-cfea958ca9ba,Anh Dương,347131621591,05/07/1997,0948803931,smai@example.net,"939 Quý cô Nhật Phạm, 802258",Khỏe mạnh,6.69,Quang Đức Bùi,18/01/2026
